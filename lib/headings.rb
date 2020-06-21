@@ -1,6 +1,6 @@
 require "headings/version"
+require "headings/generator"
 
 module Headings
   class Error < StandardError; end
-  # Your code goes here...
 end
